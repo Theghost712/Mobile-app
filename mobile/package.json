@@ -40,6 +40,7 @@
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.29.0",
+    "types/react": "~18.2.45",
     "typescript": "^5.9.3"
   }
 }
